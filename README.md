@@ -1,1 +1,2 @@
-# clothing_polarity
+
+Sentiment Abalysis of Amazon Reviews of Women Clothing
